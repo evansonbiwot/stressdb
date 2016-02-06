@@ -1,0 +1,26 @@
+/* CSS Document */
+
+
+.my_sup_table{
+	
+	border-collapse:collapse; 
+	width:100%; 
+    font-family:Consolas, monaco, monospace;
+	font-size:12px;
+	
+	
+	}
+
+
+.my_sup_table td{ border:1px solid #454545; padding:5px;}
+
+body{ font-family:Consolas, monaco, monospace;
+	font-size:12px;
+	background-color:#000000;
+	color:#ECECEC;
+	line-height:150%; }
+	
+	.orange td{ background-color:#ee7600; border:1px solid #ee7600 ;}
+
+
+
